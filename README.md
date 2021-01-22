@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Google Cloud Training
-- 🌱 I’m currently learning Google Cloud, Python
+- 🔭 I’m currently working on my flutter app
+- 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with Machine Learning and Flutter Development
 - 💬 Ask me about Linear Algebra, Calculus, Probablity and Matrices
 - 📫 How to reach me: dwi.shrish@gmail.com
