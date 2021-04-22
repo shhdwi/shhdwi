@@ -8,6 +8,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Forca Barca!
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shhdwi&layout=compact&theme=merko&hide=Ruby&hide=Shell">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shhdwi&layout=compact&theme=merko&hide=Ruby,Shell">
 
 
